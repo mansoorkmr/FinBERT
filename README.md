@@ -85,4 +85,4 @@ We provide four versions of pre-trained FinBERT weights.
         }
 
 ## Contact
-Please post a Github issue or contact [imyiyang@ust.hk](imyiyang@ust.hk) if you have any questions.
+Please post a Github issue or contact [mansoorwani63@gmail.com) if you have any questions.
